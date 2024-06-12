@@ -1,0 +1,15 @@
+
+.fs-font{
+    font-size: 25px;
+}
+h1 , h2 ,h3, h4, h5, h6{
+    color:rgb(0, 35, 121);
+    font-size: 35px;
+    
+}
+
+body{background-color: rgb(255, 245, 224);}
+.text-color{
+    color:rgb(77, 8, 109) ;
+}
+
